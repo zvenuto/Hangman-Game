@@ -1,5 +1,6 @@
 Image of UML Diagram:
-![image](https://github.com/user-attachments/assets/95e2869a-4e97-4fb6-a6dc-8aef94169729)
+![Screenshot 2024-12-11 125301](https://github.com/user-attachments/assets/3e14bc6e-5e07-42bd-8b1f-fe8c71998dbc)
+
 
 The diagram consists of 3 main classes:
 - HangmanApp
