@@ -8,9 +8,9 @@ Upon downloading all of the files, users will have everything they need to run t
 Using JavaFX, a GUI will pop up on the users screen. This is the main game application where players will play the game. 
 
 To play, players will have to select their difficulty level:
-Easy: Shorter, easier words. 10 guesses.
-Medium: Basic game of hangman. Normal sized words. 7 guesses. 
-Hard: Long, harder words. 5 guesses.
+- Easy: Shorter, easier words. 10 guesses.
+- Medium: Basic game of hangman. Normal sized words. 7 guesses. 
+- Hard: Long, harder words. 5 guesses.
 
 When a difficulty level is selected, the user may click the 'Start Game' button to begin. Players will see the length of the word by counting the amount of underscores (_) that pop up. By typing in a singular letter
 into the text box, the letter will either replace one of the underscores, or appear as an incorrect guess, depending on whether or not the letter was in the chosen word. Players keep guessing letters until the word 
