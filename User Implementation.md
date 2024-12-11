@@ -13,8 +13,8 @@ WordBank consists of all the words that could be randomly selected to be playabl
 Class structure and UML explanation:
 
 HangmanApp Class:
-Label displayWordLabel: Displays the dashes and correctly guessed letters.
-Label remainingAttemptsLabel: Displays the number of remaining attempts the player has.
+- Label displayWordLabel: Displays the dashes and correctly guessed letters.
+- Label remainingAttemptsLabel: Displays the number of remaining attempts the player has.
 Label incorrectGuessesLabel: Displays the incorrect guesses that the player has already guessed.
 TextField inputField: Displays an interactable text field that allows the player to input their letter guess.
 Button guessButton: Displays an interactable button that allows the player to submit their letter guess.
