@@ -6,9 +6,9 @@ The diagram consists of 3 main classes:
 - HangmanGame
 - WordBank
 
-HangmanApp consists of all the code for the JavaFX GUI. It is the reason the application is able to open as a graphical interface.
-HangmanGame consists of all the code to get the application to actually work and be playable. It is the main class that allows the user to play the game.
-WordBank consists of all the words that could be randomly selected to be playable in the game. This class also breaks up the words between easy, medium, and hard. 
+- HangmanApp consists of all the code for the JavaFX GUI. It is the reason the application is able to open as a graphical interface.
+- HangmanGame consists of all the code to get the application to actually work and be playable. It is the main class that allows the user to play the game.
+- WordBank consists of all the words that could be randomly selected to be playable in the game. This class also breaks up the words between easy, medium, and hard. 
 
 Class structure and UML explanation:
 
